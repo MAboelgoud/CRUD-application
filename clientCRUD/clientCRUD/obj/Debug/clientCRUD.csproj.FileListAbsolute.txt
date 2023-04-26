@@ -1,0 +1,22 @@
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\bin\Debug\clientCRUD.exe.config
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\bin\Debug\clientCRUD.exe
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\bin\Debug\clientCRUD.pdb
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\obj\Debug\clientCRUD.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\obj\Debug\clientCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\obj\Debug\clientCRUD.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\obj\Debug\clientCRUD.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\obj\Debug\clientCRUD.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\obj\Debug\clientCRUD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\obj\Debug\clientCRUD.exe
+C:\Users\DELL\OneDrive\Desktop\clientCRUD\clientCRUD\obj\Debug\clientCRUD.pdb
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\bin\Debug\clientCRUD.exe.config
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\bin\Debug\clientCRUD.exe
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\bin\Debug\clientCRUD.pdb
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\obj\Debug\clientCRUD.csproj.AssemblyReference.cache
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\obj\Debug\clientCRUD.csproj.SuggestedBindingRedirects.cache
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\obj\Debug\clientCRUD.Form1.resources
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\obj\Debug\clientCRUD.Properties.Resources.resources
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\obj\Debug\clientCRUD.csproj.GenerateResource.cache
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\obj\Debug\clientCRUD.csproj.CoreCompileInputs.cache
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\obj\Debug\clientCRUD.exe
+D:\cs\CS 5\DB\practical\clientCRUD\clientCRUD\obj\Debug\clientCRUD.pdb
